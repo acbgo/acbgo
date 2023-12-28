@@ -2,9 +2,13 @@
 
 ## Some of my Github Stats
 
-[![acbgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=acbgo&count_private=true&show_icons=true)](https://github.com/acbgo/github-readme-stats)
+<p href="https://github.com/acbgo">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acbgo&show_icons=true&include_all_commits=true" />
+</p>
+<p href="https://github.com/acbgo">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbgo&layout=compact" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools:
 
