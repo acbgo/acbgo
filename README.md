@@ -1,17 +1,10 @@
 ### Hi there 👋，this is Chen
 
-
-[![Gmail Badge](https://img.shields.io/badge/-acbgo@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:12011118@mail.sustech.edu.cn)](mailto:12011118@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-acbgo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/acbgo/)](https://www.github.com/acbgo/)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=acbgo alt=acbgo /> </p>
 
+[![acbgo's GitHub stats](https://github-readme-stats.vercel.app/api?username=acbgo&count_private=true&show_icons=true)](https://github.com/acbgo/github-readme-stats)
 
-<a href="https://github.com/acbgo">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=acbgo&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/acbgo">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acbgo&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and Tools:
 
